@@ -1,6 +1,6 @@
 # :earth_americas: IMF Economic Indicators Dashboard
 
-This is a simple Streamlit application that displays economic indicators for different countries using data from the International Monetary Fund (IMF).
+This is a simple Streamlit application that displays economic indicators for different countries using data from the International Monetary Fund (IMF). Access it here: [https://quant-challenge.streamlit.app/](https://imf-dashboard.streamlit.app/)
 
 ![Dashboard](dashboard.PNG)
 
