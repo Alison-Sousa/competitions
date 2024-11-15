@@ -1,13 +1,9 @@
-# 📊📈 Stock Analysis
+# Análise de Dados com VBA
 
-A Streamlit app that allows users to select companies and analyze their stock performance.
+Este projeto integra diversas ferramentas e linguagens de programação para solucionar problemas complexos em análise e gestão de dados. As soluções foram implementadas em VBA, acompanhadas de cálculos e consultas SQL para atender aos requisitos gerenciais e analíticos.
 
-![Dashboard](Kapitalo.PNG)
+![Projeto](Kapitalo.PNG)
 
-### How to Run the Application
+### Resumo do Projeto
 
-   -**Select Companies**: Choose the companies you want to analyze from the provided list.
-   
-   -**Date Range**: Specify the date range for stock price data.
-   
-   -**Data Visualization**: View relative performance and risk-return scatter plots for selected stocks.
+O projeto inclui criação de planilhas interativas para importação e exportação de dados, cálculos gerenciais detalhados diretamente, e consultas SQL otimizadas para análise de tabelas.
