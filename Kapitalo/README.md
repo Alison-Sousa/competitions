@@ -6,4 +6,6 @@ Este projeto integra diversas ferramentas e linguagens de programação para sol
 
 ### Resumo do Projeto
 
-O projeto inclui criação de planilhas interativas para importação e exportação de dados, cálculos gerenciais detalhados diretamente, e consultas SQL otimizadas para análise de tabelas.
+O projeto inclui a criação de planilhas interativas para gestão de bases de dados, com funcionalidades de importação e exportação, cálculos gerenciais, integração entre SQL e VBA, além de relatórios automáticos e detalhados sobre os ativos para análise.
+
+![Fluxo](Fluxo.pdf)
