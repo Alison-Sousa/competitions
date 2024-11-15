@@ -2,7 +2,7 @@
 
 A Streamlit app that allows users to select companies and analyze their stock performance.
 
-![Dashboard](itau_dashboard.PNG)
+![Dashboard](Kapitalo.PNG)
 
 ### How to Run the Application
 
