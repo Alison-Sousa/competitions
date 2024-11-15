@@ -1,9 +1,5 @@
-# Análise de Dados com VBA
+#  Desafio Safra Top Gestor
 
-Este projeto integra diversas ferramentas e linguagens de programação para solucionar problemas complexos em análise e gestão de dados. As soluções foram implementadas em VBA, acompanhadas de cálculos e consultas SQL para atender aos requisitos gerenciais e analíticos.
+O objetivo deste desafio foi simular a escolha de ativos e a montagem de uma carteira de investimentos, com foco na análise de cenários macro, microeconômicos, políticos etc. No arquivo **[Excel](safra-top-gestor-portifolio-de-investimentos.xlsx)**, está a carteira validada com os ativos escolhidos, enquanto no [PDF](safra-top-gestor-carta-ao-investidor.pdf)** está a apresentação detalhada da estratégia adotada, incluindo a análise dos cenários considerados ao longo do desafio.
 
 ![Projeto](Safra.PNG)
-
-### Resumo do Projeto
-
-O projeto inclui a criação de planilhas interativas para gestão de bases de dados, com funcionalidades de importação e exportação, cálculos gerenciais, integração entre SQL e VBA, além de relatórios automáticos e detalhados sobre os ativos para análise. No **[Fluxo.pdf](Fluxo.pdf)**, o usuário pode visualizar o caminho e as funções principais, tanto no início quanto no final do projeto. Além disso, o arquivo xlsm pode ser baixado **[Sumario.xlsm](Sumario.xlsm)**.
