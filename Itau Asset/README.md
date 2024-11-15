@@ -1,6 +1,6 @@
-# 📊📈 Stock Analysis Dashboard
+# 📊📈 Itaú Asset Stock Analysis
 
-A Streamlit app that allows users to select companies and analyze their stock performance.
+A Streamlit app that enables users to select companies and analyze their stock performance. Access it here: [https://quant-challenge.streamlit.app/](https://quant-challenge.streamlit.app/)
 
 ![Dashboard](itau_dashboard.PNG)
 
