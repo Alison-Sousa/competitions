@@ -2,7 +2,7 @@
 
 This is a simple Streamlit application that displays economic indicators for different countries using data from the International Monetary Fund (IMF). Access it here: [https://quant-challenge.streamlit.app/](https://imf-dashboard.streamlit.app/)
 
-![Dashboard](dashboard.PNG)
+![Dashboard](IMF.gif)
 
 ## Tutorial for Running the Application
 
