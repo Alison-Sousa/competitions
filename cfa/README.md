@@ -1,7 +1,5 @@
 # Vivara Equity Research - CFA Challenge
 
-App for systematizing macroeconomic and microeconomic time series via the International Monetary Fund (IMF) API.
-
 ![Dashboard](cfa.gif)
 
 ## Tutorial for Running the Application
